@@ -1,0 +1,12 @@
+event,class,start_date,end_date,source_url,note
+2006 May–Jun market stress,Mixed,2006-05-10,2006-06-30,https://www.cnnturk.com/ekonomi/piyasa-hisse/borsanin-siyasi-krizlerle-imtihani-390622,Domestic stress overlapped with broader emerging-market/global selling.
+2007 presidential-election / e-memorandum stress,Domestic,2007-04-27,2007-05-04,https://www.reuters.com/,Short political shock window.
+2008 closure-case / credit-stress overlap,Mixed,2008-03-14,2008-04-04,https://www.ekathimerini.com/economy/56410/turk-markets-hurt-by-akp-closure-case/,Domestic legal/political stress overlapped with global credit-market stress.
+2013 Gezi / taper overlap,Mixed,2013-05-31,2013-06-30,https://www.reuters.com/,Domestic unrest overlapped with global taper-tantrum conditions.
+2013 December political/legal stress,Domestic,2013-12-16,2014-03-03,https://www.reuters.com/,Extended domestic political/legal stress window.
+2015 June election uncertainty,Domestic,2015-06-05,2015-06-12,https://www.aa.com.tr/tr/ekonomi/borsa-gune-yuzde-8-15-dususle-basladi/38891,Post-election uncertainty.
+2016 July coup-attempt shock,Domestic,2016-07-15,2016-07-29,https://www.aa.com.tr/tr/15-temmuz-darbe-girisimi/borsa-haftaya-dususle-basladi-/610041,Acute domestic political shock.
+2018 August currency crisis,Domestic,2018-08-09,2018-08-31,https://www.investing.com/news/economy-news/turkish-lira-crashes-to-record-low-on-worries-over-economy-us-row-1569347,Currency/macroeconomic stress with international tensions.
+2021 central-bank leadership shock,Domestic,2021-03-19,2021-04-30,https://www.investing.com/news/economy/turkey-stocks-in-historic-drop-after-erdogan-fires-cenbank-chief-2454453,Market reaction following central-bank leadership change.
+2025 March market shock,Domestic,2025-03-18,2025-03-31,https://www.reuters.com/world/middle-east/turkeys-market-rout-worsens-amid-protests-worst-stock-slump-since-2008-2025-03-21/,March 2025 domestic political-market shock.
+2026 September fund/liquidity crisis,Open,2026-09-11,2026-10-02,https://www.reuters.com/world/middle-east/why-turkeys-stock-market-is-under-scrutiny-after-last-weeks-selloff-2026-09-22/,Open event; requires a 2026 supplement OHLC file because the bundled newer mirror ends in May 2026.
